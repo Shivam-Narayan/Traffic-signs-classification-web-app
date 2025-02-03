@@ -59,7 +59,7 @@ The proposed system addresses these issues by offering a more accurate and effic
   This project is licensed under the MIT License. See the LICENSE file for more information.
 
 ## Contact
-  If you have any questions or need further assistance, feel free to contact us at youremail@example.com.
+  If you have any questions or need further assistance, feel free to contact us at shivamnarayan2601@gmail.com.
 
 Happy coding!
 
